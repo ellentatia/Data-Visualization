@@ -1,4 +1,4 @@
-# Ellen1
+# Data Visualization
 
 Life expectancy, population and GDP from Gapminder dataset.
 
